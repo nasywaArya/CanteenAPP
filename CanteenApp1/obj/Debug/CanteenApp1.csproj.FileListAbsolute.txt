@@ -1,0 +1,306 @@
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\CanteenApp1.exe.config
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\CanteenApp1.exe
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\CanteenApp1.pdb
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Guna.UI2.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\obj\Debug\CanteenApp1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\obj\Debug\CanteenApp1.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\obj\Debug\CanteenApp1.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\obj\Debug\CanteenApp1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\obj\Debug\CanteenA.CBB6F4A2.Up2Date
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\obj\Debug\CanteenApp1.exe
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\obj\Debug\CanteenApp1.pdb
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\obj\Debug\CanteenApp1.login1.resources
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\obj\Debug\CanteenApp1.AdminKelolaUser.resources
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\obj\Debug\CanteenApp1.Userdb.resources
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\obj\Debug\CanteenApp1.userinputmenu.resources
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\obj\Debug\CanteenApp1.AdminDB.resources
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\obj\Debug\CanteenApp1.AdminMenu.resources
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\obj\Debug\CanteenApp1.Adminabsensi.resources
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\obj\Debug\CanteenApp1.adminlaporanpenjualan.resources
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Azure.Core.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Azure.Identity.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.ClientModel.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Memory.Data.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Memory.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Text.Json.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Azure.Core.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Azure.Identity.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Buffers.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.ClientModel.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Memory.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Memory.Data.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Text.Json.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\obj\Debug\CanteenApp1.UserAbsensi.resources
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\obj\Debug\CanteenApp1.UserLaporanPenjualan.resources
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\obj\Debug\CanteenApp1.ViewMenu.resources
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\obj\Debug\CanteenApp1.ViewAbsensi.resources
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\obj\Debug\CanteenApp1.ViewPenjualan.resources
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\EPPlus.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.barcodes.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.commons.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.forms.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.io.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.kernel.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.layout.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.pdfa.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.pdfua.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.sign.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.styledxmlparser.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.svg.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Drawing.Common.dll
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\EPPlus.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.barcodes.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.commons.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.forms.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.io.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.kernel.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.layout.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.pdfa.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.pdfua.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.sign.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.styledxmlparser.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\itext.svg.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Drawing.Common.pdb
+C:\Users\LENOVO\source\repos\CanteenApp1\CanteenApp1\bin\Debug\System.Drawing.Common.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\CanteenApp1.exe.config
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\CanteenApp1.exe
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\CanteenApp1.pdb
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Azure.Core.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Azure.Identity.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\EntityFramework.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\EPPlus.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Guna.UI2.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.barcodes.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.commons.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.forms.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.io.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.kernel.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.layout.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.pdfa.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.pdfua.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.sign.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.styledxmlparser.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.svg.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Buffers.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.ClientModel.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Drawing.Common.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Memory.Data.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Memory.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Text.Json.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Azure.Core.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Azure.Identity.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\EntityFramework.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\EPPlus.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.barcodes.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.commons.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.forms.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.io.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.kernel.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.layout.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.pdfa.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.pdfua.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.sign.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.styledxmlparser.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\itext.svg.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Buffers.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.ClientModel.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Drawing.Common.pdb
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Drawing.Common.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Memory.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Memory.Data.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Text.Json.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\obj\Debug\CanteenApp1.csproj.AssemblyReference.cache
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\obj\Debug\CanteenApp1.login1.resources
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\obj\Debug\CanteenApp1.AdminKelolaUser.resources
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\obj\Debug\CanteenApp1.ViewMenu.resources
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\obj\Debug\CanteenApp1.ViewAbsensi.resources
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\obj\Debug\CanteenApp1.ViewPenjualan.resources
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\obj\Debug\CanteenApp1.Userdb.resources
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\obj\Debug\CanteenApp1.Userinputmenu.resources
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\obj\Debug\CanteenApp1.UserAbsensi.resources
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\obj\Debug\CanteenApp1.UserLaporanPenjualan.resources
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\obj\Debug\CanteenApp1.AdminDB.resources
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\obj\Debug\CanteenApp1.AdminMenu.resources
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\obj\Debug\CanteenApp1.Adminabsensi.resources
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\obj\Debug\CanteenApp1.Adminlaporanpenjualan.resources
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\obj\Debug\CanteenApp1.Properties.Resources.resources
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\obj\Debug\CanteenApp1.csproj.GenerateResource.cache
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\obj\Debug\CanteenApp1.csproj.CoreCompileInputs.cache
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\obj\Debug\CanteenA.CBB6F4A2.Up2Date
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\obj\Debug\CanteenApp1.exe
+C:\Users\NASYWA A.M\source\repos\CanteenApp-main\CanteenApp1\obj\Debug\CanteenApp1.pdb
